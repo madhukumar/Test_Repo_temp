@@ -1,0 +1,5 @@
+C:\Madhu\SampleApplications\NewAppGit\bin\NewAppGit.dll
+C:\Madhu\SampleApplications\NewAppGit\bin\NewAppGit.pdb
+C:\Madhu\SampleApplications\NewAppGit\obj\Debug\NewAppGit.csprojResolveAssemblyReference.cache
+C:\Madhu\SampleApplications\NewAppGit\obj\Debug\NewAppGit.dll
+C:\Madhu\SampleApplications\NewAppGit\obj\Debug\NewAppGit.pdb
