@@ -10,7 +10,12 @@
     <form id="form1" runat="server">
     <div>
     
-        Welcome to gitHub</div>
+        Welcome to gitHub<br />
+        <br />
+        </div>
+        <div>
+            <asp:Button ID="btnUpd" runat="server" Text="Click" OnClick="btnUpd_Click" />
+        </div>
     </form>
 </body>
 </html>

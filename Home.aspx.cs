@@ -13,5 +13,10 @@ namespace NewAppGit
         {
 
         }
+
+        protected void btnUpd_Click(object sender, EventArgs e)
+        {
+            Response.Write("Thanks");
+        }
     }
 }
